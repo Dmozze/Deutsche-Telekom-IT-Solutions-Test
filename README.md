@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Mozzhevilov Danil Dmitrievich
-* Codeship : [![Java CI with Maven](https://github.com/Dmozze/Deutsche-Telekom-IT-Solutions-Test/actions/workflows/maven.yml/badge.svg)](https://github.com/Dmozze/Deutsche-Telekom-IT-Solutions-Test/actions/workflows/maven.yml)
+* GitHub Actions : [![Java CI with Maven](https://github.com/Dmozze/Deutsche-Telekom-IT-Solutions-Test/actions/workflows/maven.yml/badge.svg)](https://github.com/Dmozze/Deutsche-Telekom-IT-Solutions-Test/actions/workflows/maven.yml)
 
 
 ### How to start?  ###
