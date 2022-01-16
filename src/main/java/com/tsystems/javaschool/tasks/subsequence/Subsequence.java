@@ -17,14 +17,14 @@ public class Subsequence {
         if (x == null || y == null){
             throw new IllegalArgumentException();
         }
-        int index_x = 0, index_y = 0;
+        int ind_x = 0, ind_y = 0;
         int len_x = x.size(), len_y = y.size();
-        while (index_x < len_x && index_y < len_y){
-            if (x.get(index_x).equals(y.get(index_y))){
-                index_x++;
+        while (ind_x < len_x && ind_y < len_y){
+            if (x.get(ind_x).equals(y.get(ind_y))){
+                ind_x++;
             }
-            index_y++;
+            ind_y++;
         }
-        return index_x == len_x;
+        return ind_x == len_x;
     }
 }
